@@ -1,0 +1,702 @@
+{
+    "Walmart": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "2.200.000",
+        "Umsatz": "559,2 Mrd. USD",
+        "Sitz": "Bentonville, Arkansas, Vereinigte Staaten",
+        "Gründung": "1962"
+    },
+    "Sinopec": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "402.206",
+        "Umsatz": "2.970 Mrd. Renminbi",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "2000"
+    },
+    "Amazon.com": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "1.298.000",
+        "Umsatz": "386 Mrd. US-Dollar",
+        "Sitz": "Seattle, Washington, Vereinigte Staaten",
+        "Gründung": "1994"
+    },
+    "State Grid": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "927.830",
+        "Umsatz": "315,20 Mrd. USD",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "Dezember 2002"
+    },
+    "China National Petroleum": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "1.355.000",
+        "Umsatz": "2,52 Billionen CNY",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1988"
+    },
+    "Saudi Aramco": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "65.266",
+        "Umsatz": "356 Mrd. USD",
+        "Sitz": "Dhahran, Saudi-Arabien",
+        "Gründung": "1933"
+    },
+    "Volkswagen": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "662.600",
+        "Umsatz": "222,88 Mrd. Euro",
+        "Sitz": "Wolfsburg, Deutschland",
+        "Gründung": "28. Mai 1937 in Berlin"
+    },
+    "Toyota Motor": {
+        "Rechtsform": "Kabushiki-gaisha",
+        "Mitarbeiterzahl": "369.124",
+        "Umsatz": "29 Bio. ¥",
+        "Sitz": "Toyota, Japan",
+        "Gründung": "28. August 1937"
+    },
+    "ExxonMobil": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "72.000",
+        "Umsatz": "178,57 Mrd. USD",
+        "Sitz": "Irving, Texas Vereinigte Staaten",
+        "Gründung": "30. November 1999"
+    },
+    "Apple": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "154.000",
+        "Umsatz": "386 Mrd. USD",
+        "Sitz": "Cupertino, Kalifornien, Vereinigte Staaten",
+        "Gründung": "1. April 1976"
+    },
+    "CVS Health": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "290.000",
+        "Umsatz": "256,8 Mrd. USD",
+        "Sitz": "Woonsocket, Rhode Island, Vereinigte Staaten",
+        "Gründung": "2007"
+    },
+    "Berkshire Hathaway": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "25 367.000",
+        "Umsatz": "254,6 Mrd. US-Dollar",
+        "Sitz": "Omaha, Vereinigte Staaten",
+        "Gründung": "1955"
+    },
+    "UnitedHealth": {
+        "Rechtsform": "Incorporated",
+        "Mitarbeiterzahl": "325.000",
+        "Umsatz": "242,1 Mrd. US-Dollar",
+        "Sitz": "Minnetonka, Vereinigte Staaten",
+        "Gründung": "1977"
+    },
+    "McKesson": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "80.000",
+        "Umsatz": "214,3 Mrd. US-Dollar",
+        "Sitz": "Irving, Texas, Vereinigte Staaten",
+        "Gründung": "1833"
+    },
+    "Glencore": {
+        "Rechtsform": "public limited company",
+        "Mitarbeiterzahl": "145.000",
+        "Umsatz": "142,3 Mrd. USD",
+        "Sitz": "Baar, Schweiz  Saint Helier, Jersey",
+        "Gründung": "1974"
+    },
+    "China State Construction Engineering": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "263.915",
+        "Umsatz": "144,5 Mrd. US-$",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1982"
+    },
+    "Samsung Electronics": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "105.257",
+        "Umsatz": "197,6 Mrd. USD",
+        "Sitz": "Suwon, Südkorea",
+        "Gründung": "1969"
+    },
+    "Daimler": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "288.481",
+        "Umsatz": "154,3 Mrd. Euro",
+        "Sitz": "Stuttgart, Deutschland",
+        "Gründung": "17. November 1998"
+    },
+    "Ping An Insurance": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "342550",
+        "Umsatz": "141,61 Mrd. US-Dollar",
+        "Sitz": "Shenzhen, Volksrepublik China",
+        "Gründung": "1988"
+    },
+    "AT&T": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "230.000",
+        "Umsatz": "171,76 Mrd. USD",
+        "Sitz": "Dallas, Texas, Vereinigte Staaten",
+        "Gründung": "3. März 1885"
+    },
+    "Royal Dutch Shell": {
+        "Rechtsform": "public limited company",
+        "Mitarbeiterzahl": "86.000",
+        "Umsatz": "180,5 Mrd. US-Dollar",
+        "Sitz": "London, Vereinigtes Königreich",
+        "Gründung": "2005"
+    },
+    "BP": {
+        "Rechtsform": "public limited company",
+        "Mitarbeiterzahl": "70.100",
+        "Umsatz": "180,37 Mrd. USD",
+        "Sitz": "London, Vereinigtes Königreich",
+        "Gründung": "1909"
+    },
+    "AmerisourceBergen": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "22.000",
+        "Umsatz": "179,6 Mrd. US-Dollar",
+        "Sitz": "Chesterbrook, Pennsylvania,",
+        "Gründung": "2001"
+    },
+    "ICBC": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "461.749",
+        "Umsatz": "776 Mrd. RMB",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1. Januar 1984"
+    },
+    "Total": {
+        "Rechtsform": "Societas Europaea",
+        "Mitarbeiterzahl": "107.776",
+        "Umsatz": "200,3 Mrd. EUR",
+        "Sitz": "Courbevoie, Frankreich",
+        "Gründung": "1924"
+    },
+    "Foxconn": {
+        "Rechtsform": "Company Limited",
+        "Mitarbeiterzahl": "803.196",
+        "Umsatz": "135,4 Mrd. US-Dollar",
+        "Sitz": "Taipeh, Taiwan",
+        "Gründung": "1974"
+    },
+    "Trafigura": {
+        "Rechtsform": "Besloten Vennootschap",
+        "Mitarbeiterzahl": "8.619",
+        "Umsatz": "147,0 Mrd. US-Dollar",
+        "Sitz": "Amsterdam, Niederlande",
+        "Gründung": "1993"
+    },
+    "Exor": {
+        "Rechtsform": "Naamloze vennootschap",
+        "Mitarbeiterzahl": "23  268.979",
+        "Umsatz": "143,76 Mrd. EUR",
+        "Sitz": "Hoogoorddreef 15, 1101 BA Amsterdam, Niederlande",
+        "Gründung": "27. Juli 1927"
+    },
+    "Alphabet": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "156.500",
+        "Umsatz": "257,6 Mrd. US-Dollar",
+        "Sitz": "Mountain View, Kalifornien, Vereinigte Staaten",
+        "Gründung": "2. Oktober 2015"
+    },
+    "China Construction Bank": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "342.785",
+        "Umsatz": "162,1 Mrd. US-Dollar",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1. Oktober 1954"
+    },
+    "Ford Motor": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "186.000",
+        "Umsatz": "127,1 Mrd. USD",
+        "Sitz": "Dearborn, Michigan, Vereinigte Staaten",
+        "Gründung": "16. Juni 1903"
+    },
+    "CIGNA": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "73.700",
+        "Umsatz": "153,566 Mrd. USD",
+        "Sitz": "Bloomfield, Vereinigte Staaten",
+        "Gründung": "1792"
+    },
+    "Costco Wholesale": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "254.000",
+        "Umsatz": "152,7 Mrd. USD",
+        "Sitz": "Issaquah, Vereinigte Staaten",
+        "Gründung": "1983"
+    },
+    "AXA": {
+        "Rechtsform": "Société Anonyme",
+        "Mitarbeiterzahl": "125.934",
+        "Umsatz": "102,9 Mrd. Euro",
+        "Sitz": "Paris, Frankreich",
+        "Gründung": "1817"
+    },
+    "Agricultural Bank of China": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "464000",
+        "Umsatz": "148,7 Mrd. US-Dollar",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "N/A"
+    },
+    "Chevron": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "44.649",
+        "Umsatz": "146,5 Mrd. US-Dollar",
+        "Sitz": "San Ramon, Kalifornien, Vereinigte Staaten",
+        "Gründung": "1879"
+    },
+    "Cardinal Health": {
+        "Rechtsform": "AG",
+        "Mitarbeiterzahl": "49.500",
+        "Umsatz": "145,5 Mrd. US-Dollar",
+        "Sitz": "Dublin, Vereinigte Staaten",
+        "Gründung": "1971"
+    },
+    "JPMorgan Chase": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "256.981",
+        "Umsatz": "115,63 Mrd. USD",
+        "Sitz": "270 Park Avenue, New York City, Vereinigte Staaten",
+        "Gründung": "2000"
+    },
+    "Honda Motor": {
+        "Rechtsform": "Kabushiki-gaisha",
+        "Mitarbeiterzahl": "218.674",
+        "Umsatz": "15.88 Bio. Yen",
+        "Sitz": "Tokio, Japan",
+        "Gründung": "24. September 1948"
+    },
+    "General Motors": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "155.000",
+        "Umsatz": "122,5 Mrd. US-Dollar",
+        "Sitz": "Detroit, Michigan, Vereinigte Staaten",
+        "Gründung": "1908 / Neugründung 2009"
+    },
+    "Walgreens Boots Alliance": {
+        "Rechtsform": "Incorporated",
+        "Mitarbeiterzahl": "342.000",
+        "Umsatz": "136,866 Mrd. US-Dollar",
+        "Sitz": "Deerfield, Vereinigte StaatenBern, Schweiz",
+        "Gründung": "1901"
+    },
+    "Mitsubishi Motors": {
+        "Rechtsform": "Kabushiki-gaisha",
+        "Mitarbeiterzahl": "29.555",
+        "Umsatz": "2,5 Bio. Yen",
+        "Sitz": "Minato, Tokio, Japan",
+        "Gründung": "22. April 1970"
+    },
+    "Bank of China": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "306.200",
+        "Umsatz": "135,4 Mrd. USD",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1912"
+    },
+    "Verizon": {
+        "Rechtsform": "Incorporated",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "131,9 Mrd. USD",
+        "Sitz": "New York City, New York Vereinigte Staaten",
+        "Gründung": "30. Juni 2000"
+    },
+    "China Life Insurance": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "99.739",
+        "Umsatz": "82,84 Mrd. USD",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1949"
+    },
+    "Allianz": {
+        "Rechtsform": "Societas Europaea",
+        "Mitarbeiterzahl": "150.269",
+        "Umsatz": "140,5 Mrd. Euro",
+        "Sitz": "München, Deutschland",
+        "Gründung": "5. Februar 1890 in Berlin"
+    },
+    "Microsoft": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "182.000",
+        "Umsatz": "168 Mrd. USD",
+        "Sitz": "Redmond, Washington, Vereinigte Staaten",
+        "Gründung": "4. April 1975"
+    },
+    "Marathon Petroleum": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "43.800",
+        "Umsatz": "75,369 Mrd. USD",
+        "Sitz": "Findlay, Vereinigte Staaten",
+        "Gründung": "1887"
+    },
+    "Huawei": {
+        "Rechtsform": "Limited",
+        "Mitarbeiterzahl": "197.000",
+        "Umsatz": "115,8 Mrd. Euro",
+        "Sitz": "Huawei HeadquartersBantian, Longgang,Shenzhen 518116, Volksrepublik China",
+        "Gründung": "1987"
+    },
+    "China Railway Engineering": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "307992",
+        "Umsatz": "112 Mrd. US-Dollar",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1990"
+    },
+    "Kroger": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "449.000",
+        "Umsatz": "122,662 Mrd. USD",
+        "Sitz": "Cincinnati, Vereinigte Staaten",
+        "Gründung": "1883"
+    },
+    "SAIC Motor": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "180.749",
+        "Umsatz": "136,57 Milliarden US$",
+        "Sitz": "Shanghai, China",
+        "Gründung": "1978"
+    },
+    "Fannie Mae": {
+        "Rechtsform": "GSE",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "N/A",
+        "Sitz": "Washington, D.C.",
+        "Gründung": "1938"
+    },
+    "China Railway Construction": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "261.333",
+        "Umsatz": "681 Mrd. ¥ 87,23 Mrd. EUR",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1948"
+    },
+    "Gazprom": {
+        "Rechtsform": "PAO",
+        "Mitarbeiterzahl": "473.800",
+        "Umsatz": "122,6 Mrd. US-Dollar",
+        "Sitz": "St. Petersburg, Russland",
+        "Gründung": "1989"
+    },
+    "BMW Gruppe": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "120.726",
+        "Umsatz": "99 Mrd. Euro",
+        "Sitz": "München, Deutschland",
+        "Gründung": "7. März 1916"
+    },
+    "Lukoil": {
+        "Rechtsform": "PAO",
+        "Mitarbeiterzahl": "110.300",
+        "Umsatz": "99,9 Mrd. US-Dollar",
+        "Sitz": "Moskau, Russland",
+        "Gründung": "1991"
+    },
+    "Bank of America": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "213.000",
+        "Umsatz": "91,24 Mrd. US-Dollar",
+        "Sitz": "Charlotte, Vereinigte Staaten",
+        "Gründung": "1923"
+    },
+    "Home Depot": {
+        "Rechtsform": "Incorporated",
+        "Mitarbeiterzahl": "400.000+",
+        "Umsatz": "110,2 Mrd. US-Dollar",
+        "Sitz": "Atlanta Vereinigte Staaten",
+        "Gründung": "1978"
+    },
+    "Nippon Yūsei": {
+        "Rechtsform": "Kabushiki kaisha",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "15.240,1 Mrd. Yen",
+        "Sitz": "Kasumigaseki, Chiyoda, Präfektur Tokio, Japan",
+        "Gründung": "2006"
+    },
+    "Phillips 66": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "14.500",
+        "Umsatz": "107,3 Mrd. US-Dollar",
+        "Sitz": "Houston, Texas,",
+        "Gründung": "2012"
+    },
+    "NTT": {
+        "Rechtsform": "Kabushiki-gaisha",
+        "Mitarbeiterzahl": "274.844",
+        "Umsatz": "11,391 Billionen Yen",
+        "Sitz": "Tokio, Japan",
+        "Gründung": "1985"
+    },
+    "Comcast": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "190.000",
+        "Umsatz": "108,9 Mrd. USD",
+        "Sitz": "Philadelphia, Vereinigte Staaten",
+        "Gründung": "1963 in Tupelo, Mississippi"
+    },
+    "China National Offshore Oil": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "18.103",
+        "Umsatz": "227 Mrd. CNY ca. 31,5 Mrd. EUR",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1982"
+    },
+    "China Mobile": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "459.152",
+        "Umsatz": "737 Mrd. CNYca. 102,3 Mrd. EUR",
+        "Sitz": "Hongkong",
+        "Gründung": "1997"
+    },
+    "Assicurazioni Generali": {
+        "Rechtsform": "Società per azioni",
+        "Mitarbeiterzahl": "72.644",
+        "Umsatz": "70,71 Mrd. EUR",
+        "Sitz": "Triest, Italien",
+        "Gründung": "1831"
+    },
+    "Crédit Agricole": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "N/A",
+        "Sitz": "Paris",
+        "Gründung": "2000"
+    },
+    "Anthem": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "70.600",
+        "Umsatz": "103,14 Mrd. USD",
+        "Sitz": "Indianapolis, Vereinigte Staaten",
+        "Gründung": "2004"
+    },
+    "Wells Fargo": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "259.800",
+        "Umsatz": "85,1 Mrd. USD",
+        "Sitz": "San Francisco, Vereinigte Staaten",
+        "Gründung": "1852"
+    },
+    "Citigroup": {
+        "Rechtsform": "Incorporated",
+        "Mitarbeiterzahl": "200.000",
+        "Umsatz": "74,3 Milliarden USD",
+        "Sitz": "New York, Vereinigte Staaten",
+        "Gründung": "8. Oktober 1998"
+    },
+    "Valero Energy": {
+        "Rechtsform": "Delaware Corporation",
+        "Mitarbeiterzahl": "10.103",
+        "Umsatz": "87,804 Mrd. US-Dollar",
+        "Sitz": "San Antonio, Texas,",
+        "Gründung": "N/A"
+    },
+    "Itōchū Shōji": {
+        "Rechtsform": "Kabushiki-gaisha",
+        "Mitarbeiterzahl": "125.000",
+        "Umsatz": "99,2 Mrd. US-Dollar",
+        "Sitz": "Osaka, Japan",
+        "Gründung": "1949"
+    },
+    "HSBC": {
+        "Rechtsform": "Public limited company",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "N/A",
+        "Sitz": "London",
+        "Gründung": "1865"
+    },
+    "Siemens": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "303.000",
+        "Umsatz": "62,3 Mrd. Euro",
+        "Sitz": "Berlin und München, Deutschland",
+        "Gründung": "1. Oktober 1847 in Berlin"
+    },
+    "Pacific Construction Group": {
+        "Rechtsform": "Limited",
+        "Mitarbeiterzahl": "365425",
+        "Umsatz": "77,2 Mrd. US-Dollar",
+        "Sitz": "Nanjing, Jiangsu, Volksrepublik China",
+        "Gründung": "1995"
+    },
+    "Rosneft": {
+        "Rechtsform": "Offene AktiengesellschaftAktiengesellschaft",
+        "Mitarbeiterzahl": "295.800",
+        "Umsatz": "4,99 Bio. Rubel",
+        "Sitz": "Moskau, Russland",
+        "Gründung": "1993"
+    },
+    "General Electric": {
+        "Rechtsform": "Corporation",
+        "Mitarbeiterzahl": "ca. 205.000",
+        "Umsatz": "95,214 Mrd. US-Dollar",
+        "Sitz": "Boston, Massachusetts, USA",
+        "Gründung": "1892"
+    },
+    "China Communications Construction": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "152666",
+        "Umsatz": "71 Mrd. US-Dollar",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "6. Dezember 2006"
+    },
+    "China Resources": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "405,7 Mrd. HK$",
+        "Sitz": "Hongkong, Volksrepublik China",
+        "Gründung": "1938"
+    },
+    "Prudential plc": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "22.308",
+        "Umsatz": "52,4 Mrd. Pfund",
+        "Sitz": "London",
+        "Gründung": "30. Mai 1848"
+    },
+    "Dell Technologies": {
+        "Rechtsform": "Incorporated",
+        "Mitarbeiterzahl": "157.000",
+        "Umsatz": "90,6 Mrd. US-Dollar",
+        "Sitz": "Round Rock, Vereinigte Staaten",
+        "Gründung": "1984"
+    },
+    "Nestlé": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "273'000",
+        "Umsatz": "84,3 Mrd. CHF",
+        "Sitz": "Vevey und Cham, Schweiz",
+        "Gründung": "1866"
+    },
+    "Nissan Motor": {
+        "Rechtsform": "Kabushiki-gaisha",
+        "Mitarbeiterzahl": "138.893",
+        "Umsatz": "11,6 Bio. ¥",
+        "Sitz": "Yokohama, Japan",
+        "Gründung": "26. Dezember 1933"
+    },
+    "Hyundai Motor": {
+        "Rechtsform": "AG, Teil von Hyundai Motor Group",
+        "Mitarbeiterzahl": "68.383",
+        "Umsatz": "85,91 Milliarden US-Dollar",
+        "Sitz": "Seoul, Südkorea",
+        "Gründung": "1967"
+    },
+    "Legal & General": {
+        "Rechtsform": "Public limited company",
+        "Mitarbeiterzahl": "9.324",
+        "Umsatz": "43,790 Mrd £",
+        "Sitz": "London, Vereinigtes Königreich",
+        "Gründung": "1836"
+    },
+    "Deutsche Telekom": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "226.291",
+        "Umsatz": "101 Mrd. Euro",
+        "Sitz": "Bonn, Deutschland",
+        "Gründung": "1. Januar 1995"
+    },
+    "Enel": {
+        "Rechtsform": "Società per azioni",
+        "Mitarbeiterzahl": "68.253",
+        "Umsatz": "80,33 Mrd. EUR",
+        "Sitz": "Rom, Italien",
+        "Gründung": "1962"
+    },
+    "Aviva": {
+        "Rechtsform": "Public Limited Company",
+        "Mitarbeiterzahl": "31.700",
+        "Umsatz": "70 Mrd. £",
+        "Sitz": "London, Vereinigtes Königreich",
+        "Gründung": "2000"
+    },
+    "China FAW Group": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "N/A",
+        "Sitz": "Changchun, Volksrepublik China",
+        "Gründung": "15. Juli 1953"
+    },
+    "China Post": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "948.239",
+        "Umsatz": "72,2 Mrd. US-Dollar",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1949"
+    },
+    "Amer International Group": {
+        "Rechtsform": "Privat",
+        "Mitarbeiterzahl": "17.886",
+        "Umsatz": "73 Mrd. US-Dollar",
+        "Sitz": "Shenzhen, Volksrepublik China",
+        "Gründung": "1995"
+    },
+    "China Minmetals": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "199 486",
+        "Umsatz": "N/A",
+        "Sitz": "Peking, Volksrepublik China",
+        "Gründung": "1950"
+    },
+    "Banco Santander": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "N/A",
+        "Sitz": "Santander",
+        "Gründung": "15. Mai 1857"
+    },
+    "Softbank": {
+        "Rechtsform": "Kabushiki kaishaAktiengesellschaft",
+        "Mitarbeiterzahl": "80.909",
+        "Umsatz": "46,733 Mrd. Euro",
+        "Sitz": "Minato, Präfektur Tokio, Japan",
+        "Gründung": "1981"
+    },
+    "Bosch": {
+        "Rechtsform": "GmbH",
+        "Mitarbeiterzahl": "395.034",
+        "Umsatz": "71,5 Mrd. Euro",
+        "Sitz": "Stuttgart, Deutschland",
+        "Gründung": "15. November 1886"
+    },
+    "Reliance Industries": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "24.930",
+        "Umsatz": "3,885 Billionen INR  58,06 Mrd. EUR",
+        "Sitz": "Mumbai, Indien",
+        "Gründung": "1966"
+    },
+    "SK Group": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "N/A",
+        "Sitz": "Seoul, Südkorea",
+        "Gründung": "1953"
+    },
+    "Carrefour": {
+        "Rechtsform": "Société Anonyme",
+        "Mitarbeiterzahl": "321.383",
+        "Umsatz": "80,7 Mrd. Euro",
+        "Sitz": "Boulogne-Billancourt, Frankreich",
+        "Gründung": "1959"
+    },
+    "BNP Paribas": {
+        "Rechtsform": "Aktiengesellschaft",
+        "Mitarbeiterzahl": "N/A",
+        "Umsatz": "N/A",
+        "Sitz": "Paris",
+        "Gründung": "23. Mai 2000"
+    },
+    "Dongfeng Motor Corporation": {
+        "Rechtsform": "Zentral Verwaltetes Unternehmen",
+        "Mitarbeiterzahl": "146.843",
+        "Umsatz": "125 Mrd. RMB",
+        "Sitz": "Wuhan, Volksrepublik China",
+        "Gründung": "September 1969"
+    }
+}
